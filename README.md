@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ... Ruby on Rails projects
 - 📫 How to reach me ... Linkedin or twitter
 
+
+![Codewars](https://github.r2v.ch/codewars?user=ionameadows)
+
 <!---
 ionajosephine/ionajosephine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
