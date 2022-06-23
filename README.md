@@ -11,7 +11,7 @@
 
 - 🌈 I'm contributing to open source with Rock My Recipe! It's in it's early stages at the moment but you can follow it's progress here and on twitter.
 
-- 😍 I'm always super happy to connect and meet new people so find me on [twitter]((https://twitter.com/iona_meadows)) or [Linkedin](https://www.linkedin.com/in/ionameadows/)
+- 😍 I'm always super happy to connect and meet new people so find me on [twitter](https://twitter.com/iona_meadows) or [Linkedin](https://www.linkedin.com/in/ionameadows/)
 
 ![Codewars](https://github.r2v.ch/codewars?user=ionameadows)
 
