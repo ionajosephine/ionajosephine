@@ -6,8 +6,6 @@
 
 - 😍 Always happy to connect and meet new people so find me on [twitter](https://twitter.com/iona_meadows) or [Linkedin](https://www.linkedin.com/in/ionameadows/)
 
-![Codewars](https://github.r2v.ch/codewars?user=ionameadows)
-
 <!---
 ionajosephine/ionajosephine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
