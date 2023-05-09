@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Iona or @ionajosephine on Github
 
-- 🌱 Currently improving on Ruby, Rails, Javascript, ReactJS, RemixJS, NextJS, SQL, CSS, HTML and French 🇫🇷
-
-- 🌈 Contributing to open source with [Rock My Recipe!](https://rockmyrecipe.com/) It's in it's early stages at the moment but you can follow it's progress here and on [twitter](https://twitter.com/rockmyrecipe).
-
-- 😍 Always happy to connect and meet new people so find me on [twitter](https://twitter.com/iona_meadows) or [Linkedin](https://www.linkedin.com/in/ionameadows/)
+- 🌱 Currently working with Ruby, Rails, Javascript, dabbling with ReactJS, RemixJS, NextJS, SQL, CSS, HTML and also improving on my French 🇫🇷
+- 🌈 Contributing to open source 
+- 😍 Always happy to connect and meet new people so find me on [Linkedin](https://www.linkedin.com/in/ionameadows/)
 
 <!---
 ionajosephine/ionajosephine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
