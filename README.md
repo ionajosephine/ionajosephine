@@ -4,13 +4,13 @@
 
 🦩 I'm currently working with [Ruby on Rails](https://rubyonrails.org/) which I taught myself and I like to use [TailwindCSS](https://tailwindcss.com/) to make my projects look good. 
 
-🧜‍♀️ I'm delighted to be bringing my Environmental Science background to software development by working on [Salty Swimming](https://saltyswimming.com/) which is all about elusive coastal pools and uses interactive mapping software from [Mapbox](https://www.mapbox.com/) and tidal data from the [Admiralty API](https://www.admiralty.co.uk/access-data/apis) to forecast them.
+🧜‍♀️ I'm delighted to be bringing my Environmental Science and Project Management background to software development by working on [Salty Swimming](https://saltyswimming.com/) which is all about elusive coastal pools and uses interactive mapping software from [Mapbox](https://www.mapbox.com/) and tidal data from the [Admiralty API](https://www.admiralty.co.uk/access-data/apis) to forecast them.
 
 🐘 I use [PostgreSQL](https://www.postgresql.org/) for database work and have dabbled with pure SQL but enjoy the experience of an ORM.
 
-🦋 I recently joined the small volunteer coding team at [ADHD UK](https://adhduk.co.uk/) where I'm discovering [AWS Lambda](https://aws.amazon.com/lambda/) among other things. I'm really passionate about this - before becoming a Software Developer I helped children with ADHD and Autism as a 1:1 Education Worker. 💗 This transition has really highlighted for me the power of technology to scale-up positive impact, since the new platform we're building will help many thousands of people access information to improve their lives. 
+🦋 I recently joined the small volunteer coding team at [ADHD UK](https://adhduk.co.uk/) where I'm discovering [AWS Lambda](https://aws.amazon.com/lambda/) and learning how to integrate components written in Typescript in React with Wordpress. I'm really passionate about this - before becoming a Software Developer I helped children with ADHD and Autism as a 1:1 Education Worker. 💗 This transition has really highlighted for me the power of technology to scale-up positive impact, since the new platform we're building can help many thousands of people access information to improve their lives. 
 
-🇬🇧 🇫🇷 As a Brit who lives in France I'm teaching myself French.
+🇬🇧 🇫🇷 As a Brit who lives in France I'm also teaching myself French.
 
 🌊 Other passions include 🪲 insects, 🪂 paragliding, 🧶 crochet, 🚵‍♀️ cycling, 💦 rockpools, 🎹 piano and the over-use of emojis 🦆 and hyperlinks 🦄
 
