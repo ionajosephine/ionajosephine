@@ -8,9 +8,9 @@
 
 🐘 I use [PostgreSQL](https://www.postgresql.org/) for database work and have dabbled with pure SQL but enjoy the experience of an ORM.
 
-🦋 I recently joined the small volunteer coding team at [ADHD UK](https://adhduk.co.uk/) where I'm discovering [AWS Lambda](https://aws.amazon.com/lambda/) and learning how to integrate components written in Typescript in React with Wordpress. I'm really passionate about this - before becoming a Software Developer I helped children with ADHD and Autism as a 1:1 Education Worker. 💗 This transition has really highlighted for me the power of technology to scale-up positive impact, since the new platform we're building can help many thousands of people access information to improve their lives. 
+🦋 I'm part of the small volunteer team at [ADHD UK](https://adhduk.co.uk/) where the new discovery platform can help many thousands of people access information to improve their lives. This is the power of tech for good!
 
-🇬🇧 🇫🇷 As a Brit who lives in France I'm also teaching myself French.
+🇬🇧 🇫🇷 I'm a Brit who lives in France and works remotely.
 
 🌊 Other passions include 🪲 insects, 🪂 paragliding, 🧶 crochet, 🚵‍♀️ cycling, 💦 rockpools, 🎹 piano and the over-use of emojis 🦆 and hyperlinks 🦄
 
